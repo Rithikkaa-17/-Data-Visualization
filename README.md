@@ -1,6 +1,6 @@
 Task 2 – Data Visualization and Storytelling
 Objective:
-Create insightful and interactive visualizations using Power BI to tell a compelling business story from a sales dataset. The goal is to derive business insights—not just showcase charts—through strategic visual storytelling.
+Create insightful and interactive visualizations using Power BI to tell a compelling business story from a sales dataset. The goal is to derive business insights not just showcase charts through strategic visual storytelling.
 
 Tools Used:
 Power BI Desktop
